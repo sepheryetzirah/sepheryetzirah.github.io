@@ -1,0 +1,50 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2019-01-22T08:49:08-02:00
+
+domain:      sepheryetzirah.com.br
+owner:       david alves da silva
+ownerid:     03.717.993/0001-05
+responsible: david alves da silva
+country:     BR
+owner-c:     DAASI8
+admin-c:     DAASI8
+tech-c:      FEAPE
+billing-c:   DAASI8
+nserver:     ns1.fapnet.com.br
+nsstat:      20190119 AA
+nslastaa:    20190119
+nserver:     ns2.fapnet.com.br
+nsstat:      20190119 AA
+nslastaa:    20190119
+created:     20070522 #3603890
+changed:     20130423
+expires:     20230522
+status:      published
+
+nic-hdl-br:  DAASI8
+person:      david alves da silva
+e-mail:      david@stockval.com.br
+country:     BR
+created:     20070522
+changed:     20130215
+
+nic-hdl-br:  FEAPE
+person:      Fernando Arbulu Perrella
+e-mail:      equipe@fapnet.com.br
+country:     BR
+created:     20061028
+changed:     20140224
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
